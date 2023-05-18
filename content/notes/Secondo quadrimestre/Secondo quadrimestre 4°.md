@@ -5,7 +5,7 @@
 	- [x] [[Descrizione della concorrenza#Esecuzione parallela]];
 	- [x] [[Descrizione della concorrenza#fork-join]];
 	- [x] [[Descrizione della concorrenza#cobegin-coend]];
-- [ ] [[La comunicazione tra processi]]:
+- [ ] [[notes/La comunicazione tra processi]]:
 	- [ ] Introduzione;
 	- [ ] Modello a memoria comune;
 	- [ ] Modello a scambio di messaggi

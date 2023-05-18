@@ -10,7 +10,7 @@ enableToc: false
 	- [x] Esecuzione parallela;
 	- [x] fork-join;
 	- [x] cobegin-coend
-- [x] [[notes/Secondo quadrimestre/La comunicazione tra processi|La comunicazione tra processi]]:
+- [x] [[notes/La comunicazione tra processi|La comunicazione tra processi]]:
 	- [x] Introduzione;
 	- [x] Modello a memoria comune;
 	- [x] Modello a scambio di messaggi
