@@ -1,3 +1,6 @@
+---
+title: "Descrizione della concorrenza"
+---
 ## Esecuzione parallela
 Per eseguire un processo non sequenziale c'è la necessità di utilizzare:
 - Un elaboratore non sequenziale;

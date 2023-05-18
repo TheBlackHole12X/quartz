@@ -14,11 +14,11 @@ enableToc: false
 	- [x] Introduzione;
 	- [x] Modello a memoria comune;
 	- [x] Modello a scambio di messaggi
-- [ ] [[notes/Sincronizzazione tra processi]]:
-	- [ ] Errori nei programmi concorrenti;
-	- [ ] Mutua Esclusione e sezione critica;
-	- [ ] Starvation e deadlock;
-- [ ] [[notes/Semafori]]:
-	- [ ] Premessa;
-	- [ ] Semafori di basso livello e spinlock;
-	- [ ] Semaforo di Dijkstra;
+- [x] [[notes/Sincronizzazione tra processi|Sincronizzazione tra processi]]:
+	- [x] Errori nei programmi concorrenti;
+	- [x] Mutua Esclusione e sezione critica;
+	- [x] Starvation e deadlock;
+- [x] [[notes/Semafori|Semafori]]:
+	- [x] Premessa;
+	- [x] Semafori di basso livello e spinlock;
+	- [x] Semaforo di Dijkstra;

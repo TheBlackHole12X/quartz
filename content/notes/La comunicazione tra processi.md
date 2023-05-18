@@ -1,3 +1,6 @@
+---
+title: "La comunicazione tra processi"
+---
 ## Introduzione
 I processi concorrenti interagiscono tra di loro condividendo risorse comuni. Possiamo individuare due modelli di interazione concorrente:
 - Modello a memoria comune;
