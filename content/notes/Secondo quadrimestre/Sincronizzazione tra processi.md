@@ -1,0 +1,2 @@
+## Errori nei programmi concorrenti
+La programmazione concorrente nasconde maggiori insidie della normale programmazione monoprogrammata in quanto introduce la possibilità di commettere errori dipendenti dal tempo, nei confronti dei quali le normali tecniche di debugging non sono efficaci dato che, oltre alla correttezza logica, ai programmi è anche richiesta la correttezza temporale.

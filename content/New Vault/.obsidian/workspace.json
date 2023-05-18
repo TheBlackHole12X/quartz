@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "bd2cadeb750a74ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a628062213d22d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8edd6774605e5ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TPI/Secondo quadrimestre/Secondo quadrimestre 4°.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cef85018029dd302",
+    "type": "split",
+    "children": [
+      {
+        "id": "20ee4423a330d98a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3d1f91bd8d849b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4706256f2b81614",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "209723631bc77d9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aca614be588cd767",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ba9104145d39868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fccbfc1b2c6b161d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TPI/Secondo quadrimestre/Secondo quadrimestre 4°.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "8edd6774605e5ed7",
+  "lastOpenFiles": [
+    "TPI/Secondo quadrimestre/Descrizione della concorrenza.md",
+    "TPI/Secondo quadrimestre/Secondo quadrimestre 4°.md",
+    "TPI/Secondo quadrimestre/La comunicazione tra processi.md",
+    "TPI/Secondo quadrimestre/Elaborazione concorrente.md",
+    "TPI/Secondo quadrimestre/Semafori.md",
+    "Elaborazione concorrente/Generalità.md",
+    "TPI/Il Cablaggio strutturato.md",
+    "TPI/Secondo quadrimestre/Sincronizzazione tra processi.md",
+    "Elaborazione concorrente",
+    "TPI/Secondo quadrimestre",
+    "TPI/Introduzione al multitasking.md",
+    "Bancomat Galeotto.md",
+    "TPI/Storia dell'internet.md"
+  ]
+}

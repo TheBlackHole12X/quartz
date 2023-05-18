@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "bd2cadeb750a74ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4735309dccb34c1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Storia dell'internet.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cef85018029dd302",
+    "type": "split",
+    "children": [
+      {
+        "id": "20ee4423a330d98a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3d1f91bd8d849b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4706256f2b81614",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "aca614be588cd767",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ba9104145d39868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fccbfc1b2c6b161d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storia dell'internet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f4735309dccb34c1",
+  "lastOpenFiles": [
+    "Bancomat Galeotto.md",
+    "Il Cablaggio strutturato.md",
+    "TPI/Introduzione al multitasking.md"
+  ]
+}
